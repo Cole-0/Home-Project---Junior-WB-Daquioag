@@ -402,11 +402,7 @@ footer {
     margin-bottom: 0.8rem;
 }
 
-.footer-section a {
-    color: #cbd5e0;
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
+
 
 
 
@@ -430,7 +426,7 @@ footer {
 }
 
 .social-links a:hover {
-    background: var(--secondary-color);
+    
     transform: translateY(-3px);
 }
 
