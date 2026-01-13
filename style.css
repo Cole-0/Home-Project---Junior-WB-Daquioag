@@ -408,7 +408,9 @@ footer {
     transition: color 0.3s ease;
 }
 
-
+.footer-section a:hover {
+    color: var(--secondary-color);
+}
 
 .social-links {
     display: flex;
@@ -430,7 +432,7 @@ footer {
 }
 
 .social-links a:hover {
-    
+    background: var(--secondary-color);
     transform: translateY(-3px);
 }
 
